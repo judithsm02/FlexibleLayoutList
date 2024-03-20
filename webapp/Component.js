@@ -5,7 +5,8 @@
 sap.ui.define([
         "sap/ui/core/UIComponent",
         "sap/ui/Device",
-        "student00/com/sap/training/ux402/listdetail2/ux402listdetail2/model/models"
+        "student00/com/sap/training/ux402/listdetail2/ux402listdetail2/model/models",
+        "student00/com/sap/training/ux402/listdetail2/ux402listdetail2/controller/ListSelector"
     ],
     function (UIComponent, Device, models) {
         "use strict";
